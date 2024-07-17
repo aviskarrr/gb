@@ -22,7 +22,6 @@ Before you begin, ensure you have met the following requirements:
 **Install dependencies:**
 
 ```bash
-    Copy code
     npm install simple-git
     npm install moment
     npm install jsonfile
